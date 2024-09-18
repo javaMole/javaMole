@@ -18,8 +18,9 @@ You can click the Preview link to take a look at your changes.
                                                                 
               
 ###
-<img align="center" height="280" src="https://github.com/user-attachments/assets/0a77c6d4-193b-40ce-8f62-39bc9d27cb67"  />
-
+<div style="text-align: center;">
+<img  height="280" src="https://github.com/user-attachments/assets/0a77c6d4-193b-40ce-8f62-39bc9d27cb67"  />
+</div>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/javaMole/javaMole/output/snake.svg" alt="Snake animation" />
