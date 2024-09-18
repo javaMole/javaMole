@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Java is my life
 
                                                                                                   
-                                                                ![giphy](https://github.com/user-attachments/assets/0a77c6d4-193b-40ce-8f62-39bc9d27cb67)
+                                                                
               
 <img align="right" height="191" src="https://github.com/user-attachments/assets/0a77c6d4-193b-40ce-8f62-39bc9d27cb67"  />
 ###
