@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
               
 ###
 <div style="text-align: center;">
-<img  width="300" height="280" src="https://github.com/user-attachments/assets/0a77c6d4-193b-40ce-8f62-39bc9d27cb67"  />
+<img  width="700" height="280" src="https://github.com/user-attachments/assets/0a77c6d4-193b-40ce-8f62-39bc9d27cb67"  />
 </div>
 <br clear="both">
 
