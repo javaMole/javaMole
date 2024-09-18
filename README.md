@@ -13,13 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **Java**
 - - 👀 I’m interested in Java
 - ⚡ Java is my life
-  ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/javaMole/javaMole/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
