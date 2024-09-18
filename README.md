@@ -13,8 +13,10 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **Java**
 - - 👀 I’m interested in Java
 - ⚡ Java is my life
-  ![Uploading giphy.gif…]()
 
+                                                                                                  
+                                                                ![giphy](https://github.com/user-attachments/assets/0a77c6d4-193b-40ce-8f62-39bc9d27cb67)
+              
 
 ###
 
